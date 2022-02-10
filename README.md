@@ -8,3 +8,4 @@
 ### Step 1: Refresh the page
 ## Click the link to view the project
 ### https://masaniprakash.github.io/Repeation_of_the_words_week6/
+### To view the the output using developertools 
