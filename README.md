@@ -1,9 +1,9 @@
 # Repeation of the words in the paragraph
-## Discription of the Project
+## Description of the Project
 ### Finding the repeating words count using given paragraph.
-### Remove the symboles and convert the letters into lowercase.
+### Remove the symbols and convert the letters into lowercase.
 ### Use the loop to find the repeation.
-### Sort the value in assending order.
+### Sort the value in ascending order.
 ## Steps to run the project
 ### Step 1: Refresh the page
 ## Click the link to view the project
